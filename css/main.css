@@ -83,3 +83,14 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+ul.footer_list {
+	position: relative;
+	left: 25%;
+	width: 65%;
+	margin-bottom: 1.5em;
+	margin-top: 1em;
+  columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4;
+}

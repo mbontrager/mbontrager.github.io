@@ -1,2 +1,4 @@
 name: Martin Bontrager
 markdown: kramdown
+encoding: utf-8
+permalink: /blog/:year/:month/:day/:title
